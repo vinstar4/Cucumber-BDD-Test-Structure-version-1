@@ -63,6 +63,6 @@ Implemented in `steps.java`:
 ### How to Run
 
 1. Import project as Maven project
-2. Run `TestRunner.java` as JUnit test
+2. Run .feature file as Cucumber feature
 
 
