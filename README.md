@@ -1,3 +1,6 @@
+### Overview
+ This project demonstrates a basic Cucumber BDD login test using Selenium WebDriver and JUnit.
+ 
 ### Project Structure
 
 ```
